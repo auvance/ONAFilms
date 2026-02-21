@@ -3,7 +3,7 @@
 **A Mega React Movie Database built with Vite & the TMDB API.**  
 Responsive, fast, and fun — explore movies, trending releases, and more with a sleek UI powered by React. 
 
-👉 **Live Demo:** [ONA Films](https://aumar.xyz/ONA-Films/)  
+👉 **Live Demo:** [ONA Films](https://ona-films.vercel.app)  
 
 ## 📖 Table of Contents
 - [About](#about)
